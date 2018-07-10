@@ -1,5 +1,5 @@
 # Disclaimer
-This app is not completely designed by me. While I did a lot of the functionalities of the app, much of the framework for the app was done by the Udacity instructors.
+This app is not completely designed by me. While I did a lot of the functionalities of the app, some of the framework for the app was done by the Udacity instructors.
 
 # Sunshine!
 
