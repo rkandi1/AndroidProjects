@@ -1,3 +1,6 @@
+# Disclaimer
+This app is not completely designed by me. While I did a lot of the functionalities of the app, much of the framework for the app was done by the Udacity instructors.
+
 # Sunshine!
 
 This is the repository for the weather app that students build during the [Developing Android Apps](https://www.udacity.com/course/new-android-fundamentals--ud851) course at Udacity.
